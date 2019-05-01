@@ -1,3 +1,11 @@
+import $ivy.`com.lihaoyi::requests:0.1.7`
+import $ivy.`com.47deg::github4s:0.20.1`
+import $ivy.`org.json4s::json4s-jackson:3.6.5`
+import $ivy.`io.circe::circe-core:0.10.0`
+import $ivy.`io.circe::circe-generic:0.10.0`
+import $ivy.`io.circe::circe-parser:0.10.0`
+
+
 import io.shiftleft.codepropertygraph.generated.nodes
 import github4s.jvm.Implicits._
 import scala.collection.mutable.ListBuffer
