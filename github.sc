@@ -1,3 +1,5 @@
+import $ivy.`com.lihaoyi::requests:0.1.7`
+import $ivy.`com.47deg::github4s:0.20.1`
 
 import io.shiftleft.codepropertygraph.generated.nodes
 import github4s.Github
